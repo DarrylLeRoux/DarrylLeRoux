@@ -20,6 +20,8 @@
 
 ## My Github Stats
 
+<a href="http://www.github.com/@darryl_le_roux"><img src="https://github-readme-streak-stats.herokuapp.com/?user=@darryl_le_roux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
   <br/>
     <a href="https://github.com/DarrylLeRoux/github-readme-stats"><img alt="Darryl Le Roux Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarrylLeRoux&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/DarrylLeRoux/github-readme-stats"><img alt="Darryl Le Roux's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrylLeRoux&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
