@@ -25,7 +25,7 @@
   <br/>
     <a href="https://github.com/DarrylLeRoux/github-readme-stats"><img alt="Darryl Le Roux Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarrylLeRoux&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
     <br />
-    
+    <br />
   <a href="https://github.com/DarrylLeRoux/github-readme-stats"><img alt="Darryl Le Roux's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrylLeRoux&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
