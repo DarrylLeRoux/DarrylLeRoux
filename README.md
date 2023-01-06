@@ -16,6 +16,15 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/darryl-le-roux-0b96aa66/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/darryl_le_roux"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
 <br/>
 
 ## My Github Stats
@@ -32,12 +41,5 @@
 
 <br/>
 
-## Connect with me:
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/darryl-le-roux-0b96aa66/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/darryl_le_roux"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
 
