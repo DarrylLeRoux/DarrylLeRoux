@@ -12,7 +12,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://react.com" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/react.png"/>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="" target="_blank"> <img src=![image](https://user-images.githubusercontent.com/102359359/224137790-6dd9e3c1-1e6a-480c-98a3-836fe422f48c.png)/> </a>
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/Wv8m9WHa7yXv/lightning"/> </a>
 </p>
 
 ## Connect with me:
