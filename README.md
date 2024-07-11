@@ -1,6 +1,6 @@
 # About Me
 
-- I’m currently learning **Lightning Web Components**
+- I’m currently learning **Salesforce Omnistudio Development**
 
 - How to reach me **devdarryl@outlook.com**
 
